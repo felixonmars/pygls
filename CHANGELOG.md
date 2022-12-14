@@ -15,8 +15,8 @@ and this project adheres to [Semantic Versioning][semver].
  - Fix type annotations for `get_configuration_async` and `get_configuration` methods on `LanguageServer` and `LanguageServerProtocol` objects ([#307])
 
 [#230]: https://github.com/openlawlibrary/pygls/issues/230
+[#304]: https://github.com/openlawlibrary/pygls/issues/304
 [#307]: https://github.com/openlawlibrary/pygls/issues/307
-
 
 ## [1.0.0] - 2/12/2022
 ### Changed
